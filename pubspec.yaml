@@ -1,0 +1,11 @@
+name: flutter_analysis
+version: 1.0.0
+description: This package provides a set of rules for Dart and Flutter to develop with the best possible practices.
+repository: https://github.com/ricardodalarme/flutter_analysis
+issue_tracker: https://github.com/ricardodalarme/flutter_analysis/issues
+homepage: https://github.com/ricardodalarme/flutter_analysis
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+dependencies:
+  dart_code_metrics: any
